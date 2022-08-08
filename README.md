@@ -199,6 +199,18 @@ python3 ok -q no_repeats --local
 
 
 
+Finally, you can run all the tests to check your answer again.
+
+```shell
+python3 ok --local
+```
+
+
+
+
+
+
+
 
 
 
